@@ -1,0 +1,10 @@
+boto3
+pandas
+pyarrow
+matplotlib
+scikit-learn
+mlflow==3.16.1
+skops
+moto[s3]
+nbclient
+ipykernel
